@@ -39,6 +39,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Features- Responsive design that works on various devices- Prevents page refresh on form submission- Displays a success message upon submission## Technologies Used- HTML- CSS- JavaScript## Installation1. Clone the repository:  
+
+ ```bash git clone https://github.com/yourusername/contact-form.git cd contact-form ```  
+
+2. Open `index.html` in your web browser.  
+
+## Usage1. Fill in the Name, Email, and Message fields.  
+2. Click the "Submit" button.  
+3. A success message will appear, confirming that your message has been sent.  
+
+## DemoYou can view a live demo of the contact form at [CodePen link](https://codepen.io/yourusername/yourpenid) (replace with an actual link).  
+
+## ContributingContributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.  
+
+## LicenseThis project is licensed under the MIT License. See the LICENSE file for more details.  
+
+## Acknowledgments- Inspired by various online tutorials for creating form handling with JavaScript.
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
